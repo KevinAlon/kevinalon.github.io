@@ -8,7 +8,7 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-     apiKey: "AIzaSyBqo9_3FoidT0Mp8hun4cfnxlNnvck_-sE",
+      apiKey: "AIzaSyBqo9_3FoidT0Mp8hun4cfnxlNnvck_-sE",
     authDomain: "alonsonube-12596.firebaseapp.com",
     databaseURL: "https://alonsonube-12596-default-rtdb.firebaseio.com",
     projectId: "alonsonube-12596",
