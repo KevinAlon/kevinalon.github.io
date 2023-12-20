@@ -10,6 +10,7 @@
 firebase.initializeApp({
      apiKey: "AIzaSyBqo9_3FoidT0Mp8hun4cfnxlNnvck_-sE",
     authDomain: "alonsonube-12596.firebaseapp.com",
+    databaseURL: "https://alonsonube-12596-default-rtdb.firebaseio.com",
     projectId: "alonsonube-12596",
     storageBucket: "alonsonube-12596.appspot.com",
     messagingSenderId: "275646188255",
